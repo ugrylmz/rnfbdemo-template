@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "856910417994",
+    "firebase_url": "https://uguryl.firebaseio.com",
+    "project_id": "uguryl",
+    "storage_bucket": "uguryl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856910417994:android:7cb032026e7f6020d116b3",
+        "android_client_info": {
+          "package_name": "com.rnfbdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856910417994-emadl6n316khotr9folvvbnr1ldrtnnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpNvAc05IpBQwn3-tpUHpdDkkj_ZUcgRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856910417994-emadl6n316khotr9folvvbnr1ldrtnnp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
